@@ -1,0 +1,28 @@
+
+/* Image Section */
+
+img.logo-pic {
+  height: 50px;
+  width: 50px;
+}
+
+img.start-workout-pic{
+  height: 80px;
+  width: 150px;
+}
+
+img.exercises-pic{
+  height: 90px;
+  width: 100px;
+}
+img.arm-pic{
+  height: 60px;
+  width: 60px;
+}
+
+
+/* Catalog Section */
+
+.workout-page, .meal-plan-page {
+    text-decoration: none;
+}

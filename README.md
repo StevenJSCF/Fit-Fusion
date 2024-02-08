@@ -1,2 +1,1 @@
-# Fit-Fusion
-Website where you can track you workouts aswell as meals 
+The second page with the other 4 images its located in the workout plan catalog and the author info can be located on the nav bar 
