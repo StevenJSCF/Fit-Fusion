@@ -1,0 +1,380 @@
+{
+  "exercises": {
+    "chest": [
+      {
+        "name": "Bench Press",
+        "description": "Lift the barbell from the chest using both arms.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/bench-press.jpeg?raw=true"
+      },
+      {
+        "name": "Push-Ups",
+        "description": "Bodyweight exercise focusing on the chest muscles.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/push-ups.jpeg?raw=true"
+      },
+      {
+        "name": "Dumbbell Flyes",
+        "description": "Isolation exercise targeting the chest using dumbbells.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-fly.jpeg?raw=true"
+      }
+    ],
+    "back": [
+      {
+        "name": "Deadlifts",
+        "description": "Lift a loaded barbell off the ground using a hip hinge.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/deadlift.jpeg?raw=true"
+      },
+      {
+        "name": "Pull-Ups",
+        "description": "Upper-body exercise targeting the back muscles.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/pull-ups.jpeg?raw=true"
+      },
+      {
+        "name": "Bent Over Rows",
+        "description": "Row a barbell towards the lower chest while bent over.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/bent-over-row.jpeg?raw=true"
+      }
+    ],
+    "legs": [
+      {
+        "name": "Squats",
+        "description": "Lower body exercise involving bending the knees and hips.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/squat.jpeg?raw=true"
+      },
+      {
+        "name": "Lunges",
+        "description": "Step forward with one leg, lowering the body until both knees are bent.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-lunge.jpeg?raw=true"
+      },
+      {
+        "name": "Leg Press",
+        "description": "Push a weighted platform with the legs in a seated position.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/leg-press.jpeg?raw=true"
+      }
+    ],
+    "arms": {
+      "biceps": [
+        {
+          "name": "Barbell Curls",
+          "description": "Lift a barbell using the bicep muscles.",
+          "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/barbell-curl.jpeg?raw=true"
+        },
+        {
+          "name": "Dumbbell Hammer Curls",
+          "description": "Curl dumbbells with a neutral grip, targeting the biceps.",
+          "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/hammer-curl.jpeg?raw=true"
+        }
+      ],
+      "forearms": [
+        {
+          "name": "Wrist Curls",
+          "description": "Flex and extend the wrists to target the forearm muscles.",
+          "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/wrist-curl.jpeg?raw=true"
+        },
+        {
+          "name": "Reverse Barbell Curls",
+          "description": "Curl a barbell with a reverse grip to target the forearms.",
+          "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/reverse-barbell-curl.jpeg?raw=true"
+        }
+      ],
+      "triceps": [
+        {
+          "name": "Dips",
+          "description": "Dip down between parallel bars, targeting the triceps.",
+          "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dips.jpeg?raw=true"
+        },
+        {
+          "name": "Tricep Kickbacks",
+          "description": "Extend the arm backward using dumbbells to target the triceps.",
+          "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-tricep-kickback.jpeg?raw=true"
+        }
+      ]
+    },
+    "shoulder": [
+      {
+        "name": "Overhead Press",
+        "description": "Press a barbell overhead while standing.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/shoulder-overhead-press.jpeg?raw=true"
+      },
+      {
+        "name": "Lateral Raises",
+        "description": "Lift dumbbells to the side to target the lateral deltoids.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-lateral-raise.jpeg?raw=true"
+      },
+      {
+        "name": "Front Raises",
+        "description": "Lift dumbbells to the front to target the front deltoids.",
+        "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-front-raise.jpeg?raw=true"
+      }
+    ]
+  },
+
+  "food": {
+    "protein": {
+      "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/MealPlan-page-imgs/protein.png?raw=true",
+
+      "chicken": [
+        {
+          "type": "Chicken Breast",
+          "serving_size_in_g": 100,
+          "protein": 31,
+          "calories": 165,
+          "carbs": 0
+        },
+        {
+          "type": "Chicken Thigh",
+          "serving_size_in_g": 100,
+          "protein": 26,
+          "calories": 209,
+          "carbs": 0
+        },
+        {
+          "type": "Chicken Drumstick",
+          "serving_size_in_g": 100,
+          "protein": 28,
+          "calories": 172,
+          "carbs": 0
+        }
+      ],
+
+      "beef": [
+        {
+          "type": "Beef Steak (Sirloin)",
+          "serving_size_in_g": 100,
+          "protein": 29,
+          "calories": 250,
+          "carbs": 0
+        },
+        {
+          "type": "Ground Beef (80% lean)",
+          "serving_size_in_g": 100,
+          "protein": 18,
+          "calories": 254,
+          "carbs": 0
+        },
+        {
+          "type": "Beef Ribeye",
+          "serving_size_in_g": 100,
+          "protein": 25,
+          "calories": 290,
+          "carbs": 0
+        }
+      ],
+
+      "turkey": [
+        {
+          "type": "Turkey Breast",
+          "serving_size_in_g": 100,
+          "protein": 29,
+          "calories": 135,
+          "carbs": 0
+        },
+        {
+          "type": "Turkey Thigh",
+          "serving_size_in_g": 100,
+          "protein": 23,
+          "calories": 160,
+          "carbs": 0
+        },
+        {
+          "type": "Ground Turkey (93% lean)",
+          "serving_size_in_g": 100,
+          "protein": 30,
+          "calories": 176,
+          "carbs": 0
+        }
+      ],
+
+      "fish": [
+        {
+          "type": "Salmon",
+          "serving_size_in_g": 100,
+          "protein": 20,
+          "calories": 206,
+          "carbs": 0
+        }
+      ]
+    },
+
+    "carbs": {
+      "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/MealPlan-page-imgs/carbs.png?raw=true",
+
+      "items": [
+        {
+          "type": "Rice",
+          "serving_size_in_g": 100,
+          "protein": 2.7,
+          "carbs": 28,
+          "calories": 130
+        },
+        {
+          "type": "Pasta",
+          "serving_size_in_g": 100,
+          "protein": 5.8,
+          "carbs": 25,
+          "calories": 131
+        },
+        {
+          "type": "Bread",
+          "serving_size_in_g": 100,
+          "protein": 8.5,
+          "carbs": 48,
+          "calories": 265
+        },
+        {
+          "type": "Oats",
+          "serving_size_in_g": 100,
+          "protein": 16.9,
+          "carbs": 66,
+          "calories": 389
+        }
+      ]
+    },
+
+    "veggies": {
+      "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/MealPlan-page-imgs/verggies.png?raw=true",
+
+      "items": [
+        {
+          "type": "Broccoli",
+          "serving_size_in_g": 100,
+          "calories": 34,
+          "carbs": 6,
+          "protein": 2.8
+        },
+        {
+          "type": "Carrot",
+          "serving_size_in_g": 100,
+          "calories": 41,
+          "carbs": 9,
+          "protein": 0.9
+        },
+        {
+          "type": "Spinach",
+          "serving_size_in_g": 100,
+          "calories": 18,
+          "carbs": 3,
+          "protein": 0.9
+        },
+        {
+          "type": "Bell Pepper",
+          "serving_size_in_g": 100,
+          "calories": 31,
+          "carbs": 6,
+          "protein": 0.9
+        },
+        {
+          "type": "Potatoes",
+          "serving_size_in_g": 100,
+          "protein": 2,
+          "carbs": 17,
+          "calories": 77
+        },
+        {
+          "type": "Avocado",
+          "serving_size_in_g": 100,
+          "protein": 2,
+          "carbs": 9,
+          "calories": 160
+        }
+      ]
+    },
+
+    "fats": {
+      "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/MealPlan-page-imgs/fats.png?raw=true",
+
+      "items": [
+        {
+          "type": "Butter",
+          "serving_size_in_g": 100,
+          "protein": 0,
+          "carbs": 0,
+          "calories": 717
+        },
+        {
+          "type": "Olive Oil",
+          "serving_size_in_g": 100,
+          "protein": 0,
+          "carbs": 0,
+          "calories": 884
+        }
+      ]
+    },
+
+    "fruits": {
+      "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/MealPlan-page-imgs/fruits.png?raw=true",
+
+      "items": [
+        {
+          "type": "Apple",
+          "serving_size_in_g": 100,
+          "protein": 0.3,
+          "carbs": 14,
+          "calories": 52
+        },
+        {
+          "type": "Banana",
+          "serving_size_in_g": 100,
+          "protein": 1.1,
+          "carbs": 23,
+          "calories": 89
+        },
+        {
+          "type": "Orange",
+          "serving_size_in_g": 100,
+          "protein": 0.9,
+          "carbs": 12,
+          "calories": 47
+        },
+        {
+          "type": "Strawberry",
+          "serving_size_in_g": 100,
+          "protein": 0.7,
+          "carbs": 8,
+          "calories": 32
+        },
+        {
+          "type": "Grapes",
+          "serving_size_in_g": 100,
+          "protein": 0.7,
+          "carbs": 18,
+          "calories": 69
+        },
+        {
+          "type": "Watermelon",
+          "serving_size_in_g": 100,
+          "protein": 0.6,
+          "carbs": 8,
+          "calories": 30
+        },
+        {
+          "type": "Pineapple",
+          "serving_size_in_g": 100,
+          "protein": 0.5,
+          "carbs": 13,
+          "calories": 50
+        },
+        {
+          "type": "Mango",
+          "serving_size_in_g": 100,
+          "protein": 0.8,
+          "carbs": 15,
+          "calories": 60
+        },
+        {
+          "type": "Kiwi",
+          "serving_size_in_g": 100,
+          "protein": 1.1,
+          "carbs": 15,
+          "calories": 61
+        },
+        {
+          "type": "Blueberries",
+          "serving_size_in_g": 100,
+          "protein": 0.7,
+          "carbs": 14,
+          "calories": 57
+        }
+      ]
+    }
+  }
+}
