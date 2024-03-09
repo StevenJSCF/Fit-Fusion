@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -18,10 +18,13 @@
 
     <link rel="stylesheet" href="style.css" />
 
-    <title>Meal Plan</title>
+    <title>My Workout</title>
   </head>
+
   <body>
-      <script src="index.js"></script>
+
+    <script src="index.js"></script>
+
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container px-lg-5">
@@ -58,36 +61,26 @@
       </div>
     </nav>
 
-    <h1 class = "mealplan-header">Meal Plan</h1>
-    <hr>
-
-    <h2 class = "meals-categories">Breakfast</h2>
-    <hr>
-
-    <h2 class = "meals-categories">Lunch</h2>
-    <hr>
-
-    <h2 class = "meals-categories">Dinner</h2>
-    <hr>
-
-    <h2 class = "meals-categories">Food Suggestion</h2>
-    <hr>
+    <h1 class = "workout-header">Exercises</h1>
 
     <form id="my_form">
+      <div class="filter-container">
         <p class = "filter">
-          Foods filter: 
-          <select name="inputFoodKind" id="inputFoodKind" onChange="getFoodValue();">
+          Look for Exercises
+          <select name="inputExerciseName" id="inputExerciseName" onChange="getInputValue();">
             <option value="all">All</option>
-            <option value="protein">Protein</option>
-            <option value="carbs">Carbs</option>
-            <option value="veggies">Veggies</option>
-            <option value="fats">Fats</option>
-            <option value="fruits">Fruits</option>
+            <option value="chest">Chest</option>
+            <option value="back">Back</option>
+            <option value="legs">Legs</option>
+            <option value="arms">Arms</option>
+            <option value="shoulder">Shoulder</option>
           </select>
         </p>
+    </div>
     </form>
 
-    <div id="food-container"></div>
+
+    <div id="exercises-container"></div>
 
   </body>
 </html>
