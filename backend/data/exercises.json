@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Bench Press",
+    "description": "Lift the barbell from the chest using both arms.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/bench-press.jpeg?raw=true",
+    "bodyPart": "Chest"
+  },
+  {
+    "id": 2,
+    "name": "Push-Ups",
+    "description": "Bodyweight exercise focusing on the chest muscles.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/push-ups.jpeg?raw=true",
+    "bodyPart": "Chest"
+  },
+  {
+    "id": 3,
+    "name": "Dumbbell Flyes",
+    "description": "Isolation exercise targeting the chest using dumbbells.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-fly.jpeg?raw=true",
+    "bodyPart": "Chest"
+  },
+  {
+    "id": 4,
+    "name": "Pull-Ups",
+    "description": "Upper-body exercise targeting the back muscles.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/pull-ups.jpeg?raw=true",
+    "bodyPart": "Back"
+    
+  },
+  {
+    "id": 5,
+    "name": "Bent Over Rows",
+    "description": "Row a barbell towards the lower chest while bent over.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/bent-over-row.jpeg?raw=true",
+    "bodyPart": "Back"
+  },
+
+  {
+    "id": 6,
+    "name": "Squats",
+    "description": "Lower body exercise involving bending the knees and hips.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/squat.jpeg?raw=true",
+    "bodyPart": "Leg"
+  },
+  {
+    "id": 7,
+    "name": "Deadlifts",
+    "description": "Lift a loaded barbell off the ground using a hip hinge.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/deadlift.jpeg?raw=true",
+    "bodyPart": "Leg"
+  },
+  {
+    "id": 8,
+    "name": "Lunges",
+    "description": "Step forward with one leg, lowering the body until both knees are bent.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-lunge.jpeg?raw=true",
+    "bodyPart": "Leg"
+  },
+  {
+    "id": 19,
+    "name": "Leg Press",
+    "description": "Push a weighted platform with the legs in a seated position.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/leg-press.jpeg?raw=true",
+    "bodyPart": "Leg"
+  },
+
+  {
+    "id": 10,
+    "name": "Barbell Curls",
+    "description": "Lift a barbell using the bicep muscles.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/barbell-curl.jpeg?raw=true",
+    "bodyPart": "Bicep"
+  },
+  {
+    "id": 11,
+    "name": "Dumbbell Hammer Curls",
+    "description": "Curl dumbbells with a neutral grip, targeting the biceps.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/hammer-curl.jpeg?raw=true",
+    "bodyPart": "Bicep"
+  },
+
+  {
+    "id": 12,
+    "name": "Wrist Curls",
+    "description": "Flex and extend the wrists to target the forearm muscles.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/wrist-curl.jpeg?raw=true",
+    "bodyPart": "Forearm"
+  },
+  {
+    "id": 13,
+    "name": "Reverse Barbell Curls",
+    "description": "Curl a barbell with a reverse grip to target the forearms.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/reverse-barbell-curl.jpeg?raw=true",
+    "bodyPart": "Forearm"
+  },
+
+  {
+    "id": 14,
+    "name": "Dips",
+    "description": "Dip down between parallel bars, targeting the triceps.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dips.jpeg?raw=true",
+    "bodyPart": "Tricep"
+  },
+  {
+    "id": 15,
+    "name": "Tricep Kickbacks",
+    "description": "Extend the arm backward using dumbbells to target the triceps.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-tricep-kickback.jpeg?raw=true",
+    "bodyPart": "Tricep"
+  },
+
+  {
+    "id": 16,
+    "name": "Overhead Press",
+    "description": "Press a barbell overhead while standing.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/shoulder-overhead-press.jpeg?raw=true",
+    "bodyPart": "Shoulder"
+  },
+  {
+    "id": 17,
+    "name": "Lateral Raises",
+    "description": "Lift dumbbells to the side to target the lateral deltoids.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-lateral-raise.jpeg?raw=true",
+    "bodyPart": "Shoulder"
+  },
+  {
+    "id": 18,
+    "name": "Front Raises",
+    "description": "Lift dumbbells to the front to target the front deltoids.",
+    "url": "https://github.com/StevenJSCF/Images/blob/main/SE319-Project-Img/Exercise-page-img/dumbbell-front-raise.jpeg?raw=true",
+    "bodyPart": "Shoulder"
+  }
+]

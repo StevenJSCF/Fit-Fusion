@@ -1,0 +1,298 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Breast",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 31,
+    "calories": 165,
+    "carbs": 0
+  },
+  {
+    "id": "2",
+    "name": "Chicken Thigh",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 26,
+    "calories": 209,
+    "carbs": 0
+  },
+  {
+    "id": "3",
+    "name": "Chicken Drumstick",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 28,
+    "calories": 172,
+    "carbs": 0
+  },
+
+  {
+    "id": "4",
+    "name": "Beef Steak (Sirloin)",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 29,
+    "calories": 250,
+    "carbs": 0
+  },
+  { 
+    "id": "5",
+    "name": "Ground Beef (80% lean)",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 18,
+    "calories": 254,
+    "carbs": 0
+  },
+  {
+    "id": "6",
+    "name": "Beef Ribeye",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 25,
+    "calories": 290,
+    "carbs": 0
+  },
+
+  {
+    "id": "7",
+    "name": "Turkey Breast",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 29,
+    "calories": 135,
+    "carbs": 0
+  },
+  {
+    "id": "8",
+    "name": "Turkey Thigh",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 23,
+    "calories": 160,
+    "carbs": 0
+  },
+  {
+    "id": "9",
+    "name": "Ground Turkey (93% lean)",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 30,
+    "calories": 176,
+    "carbs": 0
+  },
+
+  {
+    "id": "10",
+    "name": "Salmon",
+    "type": "protein", 
+    "serving_size_in_g": 100,
+    "protein": 20,
+    "calories": 206,
+    "carbs": 0
+  },
+
+  {
+    "id": "11",
+    "name": "Rice",
+    "type": "carbs", 
+    "serving_size_in_g": 100,
+    "protein": 2.7,
+    "carbs": 28,
+    "calories": 130
+  },
+  {
+    "id": "12",
+    "name": "Pasta",
+    "type": "carbs", 
+    "serving_size_in_g": 100,
+    "protein": 5.8,
+    "carbs": 25,
+    "calories": 131
+  },
+  {
+    "id": "13",
+    "name": "Bread",
+    "type": "carbs", 
+    "serving_size_in_g": 100,
+    "protein": 8.5,
+    "carbs": 48,
+    "calories": 265
+  },
+  {
+    "id": "14",
+    "name": "Oats",
+    "type": "carbs", 
+    "serving_size_in_g": 100,
+    "protein": 16.9,
+    "carbs": 66,
+    "calories": 389
+  },
+
+  {
+    "id": "15",
+    "name": "Broccoli",
+    "type": "veggies", 
+    "serving_size_in_g": 100,
+    "calories": 34,
+    "carbs": 6,
+    "protein": 2.8
+  },
+  {
+    "id": "16",
+    "name": "Carrot",
+    "type": "veggies", 
+    "serving_size_in_g": 100,
+    "calories": 41,
+    "carbs": 9,
+    "protein": 0.9
+  },
+  {
+    "id": "17",
+    "name": "Spinach",
+    "type": "veggies", 
+    "serving_size_in_g": 100,
+    "calories": 18,
+    "carbs": 3,
+    "protein": 0.9
+  },
+  {
+    "id": "18",
+    "name": "Bell Pepper",
+    "type": "veggies", 
+    "serving_size_in_g": 100,
+    "calories": 31,
+    "carbs": 6,
+    "protein": 0.9
+  },
+  {
+    "id": "19",
+    "name": "Potatoes",
+    "type": "veggies", 
+    "serving_size_in_g": 100,
+    "protein": 2,
+    "carbs": 17,
+    "calories": 77
+  },
+  {
+    "id": "20",
+    "name": "Avocado",
+    "type": "veggies", 
+    "serving_size_in_g": 100,
+    "protein": 2,
+    "carbs": 9,
+    "calories": 160
+  },
+
+  {
+    "id": "21",
+    "name": "Butter",
+    "type": "fats",         
+    "serving_size_in_g": 100,
+    "protein": 0,
+    "carbs": 0,
+    "calories": 717
+  },
+  {
+    "id": "22",
+    "name": "Olive Oil",
+    "type": "fats",
+    "serving_size_in_g": 100,
+    "protein": 0,
+    "carbs": 0,
+    "calories": 884
+  },
+
+  {
+    "id": "23",
+    "name": "Apple",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.3,
+    "carbs": 14,
+    "calories": 52
+  },
+  {
+    "id": "24",
+    "name": "Banana",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 1.1,
+    "carbs": 23,
+    "calories": 89
+  },
+  {
+    "id": "25",
+    "name": "Orange",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.9,
+    "carbs": 12,
+    "calories": 47
+  },
+  {
+    "id": "26",
+    "name": "Strawberry",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.7,
+    "carbs": 8,
+    "calories": 32
+  },
+  {
+    "id": "27",
+    "name": "Grapes",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.7,
+    "carbs": 18,
+    "calories": 69
+  },
+  {
+    "id": "28",
+    "name": "Watermelon",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.6,
+    "carbs": 8,
+    "calories": 30
+  },
+  {
+    "id": "29",
+    "name": "Pineapple",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.5,
+    "carbs": 13,
+    "calories": 50
+  },
+  {
+    "id": "30",
+    "name": "Mango",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.8,
+    "carbs": 15,
+    "calories": 60
+  },
+  {
+    "id": "31",
+    "name": "Kiwi",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 1.1,
+    "carbs": 15,
+    "calories": 61
+  },
+  {
+    "id": "32",
+    "name": "Blueberries",
+    "type": "fruits",
+    "serving_size_in_g": 100,
+    "protein": 0.7,
+    "carbs": 14,
+    "calories": 57
+  }
+]
+
